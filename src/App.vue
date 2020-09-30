@@ -9,7 +9,7 @@
     <ul>
       <li><a href="https://www.linkedin.com/in/cherylnqj/" target="_blank" rel="noopener">about me</a></li>
       <li><a href="https://github.com/Yoshi275" target="_blank" rel="noopener">projects</a></li>
-      <li><a href="/resume" target="_blank">resume</a></li>
+      <li><a href="https://drive.google.com/file/d/1B8iHDLdAKMd7LMT4Fzz-JB-kUTVB-c7n/view?usp=sharing" target="_blank">resume</a></li>
     </ul>
   </div>
 </template>
